@@ -6,7 +6,7 @@
 
 ## 🚀 Backend API
 
-**[Backend API](YOUR_LIVE_BACKEND_URL)**   ← replace with `https://YOUR-BACKEND.onrender.com`
+**[Backend API](https://your-backend.onrender.com)**   ← replace with `https://YOUR-BACKEND.onrender.com`
 
 > The frontend is hosted on **GitHub Pages** (static files only). The Node.js/Express backend cannot run on GitHub Pages, so it is hosted separately (Render) and uses **MongoDB Atlas**. The free Render service sleeps when idle — the first request after a pause can take ~1 minute.
 
